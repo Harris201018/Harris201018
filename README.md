@@ -6,4 +6,4 @@
 
 # My Stats!
 
-**[Click here!]** (https://github-readme-stats.vercel.app/api?username=Harris201018&show_icons=true&theme=tokyonight&hide=issues)
+[Click here!](https://github-readme-stats.vercel.app/api?username=Harris201018&show_icons=true&theme=tokyonight&hide=issues)
